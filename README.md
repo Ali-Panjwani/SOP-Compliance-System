@@ -12,6 +12,7 @@ How the Project Works:
 - Train the model for Mask Detection
 - Implement a camera system to detect individuals not wearing a mask in a designated area.
 - Utilize facial recognition technology to match individuals with their corresponding information from the system's database, including name and email.
+- Save the names of image file in the following format: RollNumber.Name e.g. k190365.Ali Panjwani
 - Trigger an alarm to alert individuals who are not wearing a mask.
 - Send an email notification to the designated administration, alerting them of individuals who are not wearing a mask.
 - If the individual is present in the system's database, send an additional email notification to that individual as a reminder to wear a mask.
